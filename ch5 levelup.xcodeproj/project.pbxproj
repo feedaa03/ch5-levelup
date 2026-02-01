@@ -45,6 +45,21 @@
 			path = "ch5 levelupUITests";
 			sourceTree = "<group>";
 		};
+		8912D4962F2F3B5400F68F5C /* Model */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = Model;
+			sourceTree = "<group>";
+		};
+		8912D4982F2F3B6900F68F5C /* View */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = View;
+			sourceTree = "<group>";
+		};
+		8912D49D2F2F3BA300F68F5C /* Viewmodel */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = Viewmodel;
+			sourceTree = "<group>";
+		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +94,9 @@
 				8912D47C2F2F3B4200F68F5C /* ch5 levelupTests */,
 				8912D4862F2F3B4200F68F5C /* ch5 levelupUITests */,
 				8912D46D2F2F3B4100F68F5C /* Products */,
+				8912D4962F2F3B5400F68F5C /* Model */,
+				8912D4982F2F3B6900F68F5C /* View */,
+				8912D49D2F2F3BA300F68F5C /* Viewmodel */,
 			);
 			sourceTree = "<group>";
 		};
@@ -109,6 +127,9 @@
 			);
 			fileSystemSynchronizedGroups = (
 				8912D46E2F2F3B4100F68F5C /* ch5 levelup */,
+				8912D4962F2F3B5400F68F5C /* Model */,
+				8912D4982F2F3B6900F68F5C /* View */,
+				8912D49D2F2F3BA300F68F5C /* Viewmodel */,
 			);
 			name = "ch5 levelup";
 			packageProductDependencies = (
