@@ -6,6 +6,10 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		8912D4A42F31D1A200F68F5C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8912D4A32F31D1A200F68F5C /* Assets.xcassets */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXContainerItemProxy section */
 		8912D47A2F2F3B4200F68F5C /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -27,6 +31,7 @@
 		8912D46C2F2F3B4100F68F5C /* ch5 levelup.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "ch5 levelup.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		8912D4792F2F3B4200F68F5C /* ch5 levelupTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "ch5 levelupTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		8912D4832F2F3B4200F68F5C /* ch5 levelupUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "ch5 levelupUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		8912D4A32F31D1A200F68F5C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Assets.xcassets; path = ../Assets.xcassets; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -97,6 +102,7 @@
 				8912D4962F2F3B5400F68F5C /* Model */,
 				8912D4982F2F3B6900F68F5C /* View */,
 				8912D49D2F2F3BA300F68F5C /* Viewmodel */,
+				8912D4A32F31D1A200F68F5C /* Assets.xcassets */,
 			);
 			sourceTree = "<group>";
 		};
@@ -233,6 +239,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8912D4A42F31D1A200F68F5C /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

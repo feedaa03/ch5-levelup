@@ -1,9 +1,3 @@
-//
-//  ch5_levelupApp.swift
-//  ch5 levelup
-//
-//  Created by Feda  on 01/02/2026.
-//
 
 import SwiftUI
 
