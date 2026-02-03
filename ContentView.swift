@@ -8,7 +8,7 @@ struct ContentView: View {
                 .scaledToFill()
                 .ignoresSafeArea()
             
-            VStack(alignment: .trailing, spacing: 20) {            Text("الإعدادات")
+            VStack(alignment: .trailing, spacing: 20) {            Text("gs[gلإعدادات")
                     .font(.system(size: 33, weight: .bold))
                     .padding()
                     .frame(maxWidth: .infinity, alignment: .center)

@@ -36,6 +36,23 @@
 		8912D4A32F31D1A200F68F5C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Assets.xcassets; path = ../Assets.xcassets; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		8912D4EE2F31EB7000F68F5C /* Exceptions for "View" folder in "ch5 levelup" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				"Untitled 2.swift",
+			);
+			target = 8912D46B2F2F3B4100F68F5C /* ch5 levelup */;
+		};
+		8912D4EF2F31EB7200F68F5C /* Exceptions for "Model" folder in "ch5 levelup" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Untitled.swift,
+			);
+			target = 8912D46B2F2F3B4100F68F5C /* ch5 levelup */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		8912D46E2F2F3B4100F68F5C /* ch5 levelup */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
@@ -54,11 +71,17 @@
 		};
 		8912D4962F2F3B5400F68F5C /* Model */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				8912D4EF2F31EB7200F68F5C /* Exceptions for "Model" folder in "ch5 levelup" target */,
+			);
 			path = Model;
 			sourceTree = "<group>";
 		};
 		8912D4982F2F3B6900F68F5C /* View */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				8912D4EE2F31EB7000F68F5C /* Exceptions for "View" folder in "ch5 levelup" target */,
+			);
 			path = View;
 			sourceTree = "<group>";
 		};
