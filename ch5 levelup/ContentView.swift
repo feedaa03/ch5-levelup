@@ -9,7 +9,7 @@ struct ContentView: View {
                 .ignoresSafeArea()
             
             VStack(alignment: .trailing, spacing: 20) {            Text("الإعدادات")
-                    .font(.system(size: 34, weight: .bold))
+                    .font(.system(size: 33, weight: .bold))
                     .padding()
                     .frame(maxWidth: .infinity, alignment: .center)
                     .padding(.top, )
